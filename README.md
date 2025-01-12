@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Oumayma Elhaddam<br>💻 Backend Developer passionate about creating impactful web solutions.<br>👀 I’m deeply interested in exploring cutting-edge web development technologies.<br>🌱 Currently expanding my skills in PHP, Drupal, ReactJS, and Rust.<br>🚀 Exploring AI/ML tools like TensorFlow.js and LangChain to enhance my projects.<br>📫 Reach me at: oumayma.elhaddam@gmail.com<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I’m a big fan of anime and K-dramas—they inspire my creativity!<br>🌟 Check out my portfolio: Oumayma Elhaddam
+👋 Hi, I’m Oumayma Elhaddam<br>💻 Backend Developer passionate about creating impactful web solutions.<br>👀 I’m deeply interested in exploring cutting-edge web development technologies.<br>🌱 Currently expanding my skills in PHP, Drupal, ReactJS, and Rust.<br>🚀 Exploring AI/ML tools like TensorFlow.js and LangChain to enhance my projects.<br>📫 Reach me at: oumayma.elhaddam@gmail.com<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I’m a big fan of anime and K-dramas—they inspire my creativity!<br>🌟 Check out my portfolio: Oumayma Elhaddam https://oumayma-elhaddam.vercel.app/
 
 
 ## 🌐 Socials:
